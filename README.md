@@ -10,6 +10,8 @@ TA's and graders will be testing lint in your homework from now on. If you don't
 
 You can run the lint test yourself by first installing npm's eslint package.
 
+Start Travis!!!!
+
 ```npm install -g eslint```   
 
 Then call ```eslint *``` in the root of your project. If there are lint errors correct and retest.  
